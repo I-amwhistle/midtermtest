@@ -3,7 +3,7 @@
     display: flex;
     justify-content: center;
     border-width: 2px;
-border-color: black;
+border-color: grey;
 border-style: solid;
     width: 20rem;
     flex-direction: column;
@@ -17,6 +17,12 @@ input {
     border-radius: 3px;
     border-width: 1px;
     height: 1.5rem;
+
+}
+input:focus {
+
+
+    border-color:#3B71CA
 
 }
 h2 {
@@ -48,7 +54,8 @@ h5 {
 
 }
 body {
-    background-color: beige;
+    /*background-color: beige;*/
+    background-color: rgb(245, 249, 252);
 }
 
 .element.success .err {
