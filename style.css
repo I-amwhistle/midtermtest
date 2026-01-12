@@ -16,6 +16,7 @@ input {
 
     border-radius: 3px;
     border-width: 1px;
+    height: 1.5rem;
 
 }
 h2 {
@@ -27,7 +28,7 @@ h2 {
     align-self: center;
 
 }
-h6 {
+h5 {
     margin-bottom: 2px;
 }
 * {
@@ -48,4 +49,13 @@ h6 {
 }
 body {
     background-color: beige;
+}
+
+.element.success .err {
+    display:none;
+}
+
+.element.error .err{
+
+
 }

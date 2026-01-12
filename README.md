@@ -1,1 +1,2 @@
 This is a form validator, consisting of basic HTML and CSS, ready to use as a component in other projects.
+The project instructions say that I have to change style on different states but no JS is present. If anyone is trying to test, change the classes manually please.
