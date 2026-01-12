@@ -8,10 +8,15 @@ border-style: solid;
     width: 20rem;
     flex-direction: column;
     background-color: white;
-    box-shadow: 5px 5px grey;
-    box-shadow: -5px 5px grey;
+    box-shadow: 5px 5px 5px 5px grey;
     border-radius: 10px;
     margin: 0px auto;
+}
+input {
+
+    border-radius: 3px;
+    border-width: 1px;
+
 }
 h2 {
     background-color: white;
@@ -36,4 +41,11 @@ h6 {
     align-self: center;
     margin-top: 20px;
     margin-bottom: 20px;
+    background-color: #3B71CA;
+    color:white;
+    border-radius: 5px;
+
+}
+body {
+    background-color: beige;
 }
