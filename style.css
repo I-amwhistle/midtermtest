@@ -1,0 +1,21 @@
+.formclass {
+
+    display: flex;
+    justify-content: center;
+    border-width: 2px;
+border-color: black;
+border-style: solid;
+    margin-left: 15rem;
+    margin-right: 15rem;
+    flex-direction: column;
+    background-color: white;
+    box-shadow: 5px;
+}
+h2 {
+    background-color: white;
+    text-align: center;
+}
+.element {
+    background-color: white;
+    align-self: center;
+}
