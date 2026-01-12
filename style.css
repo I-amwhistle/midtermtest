@@ -28,6 +28,8 @@ input:focus {
 }
 
 h2 {
+    margin-top: 3rem;
+    margin-bottom: 0.5rem;
     background-color: white;
     text-align: center;
 }
@@ -40,6 +42,8 @@ h2 {
     align-content: center;
     flex-direction: column;
     width: 15rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
 }
 
 h5 {
@@ -57,7 +61,7 @@ h5 {
     height: 2.5rem;
     align-self: center;
     margin-top: 30px;
-    margin-bottom: 20px;
+    margin-bottom: 2.5rem;
     background-color: #3B71CA;
     color: white;
     border-radius: 5px;
