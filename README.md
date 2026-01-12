@@ -1,0 +1,1 @@
+This is a form validator, consisting of basic HTML and CSS, ready to use as a component in other projects.
