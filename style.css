@@ -9,7 +9,9 @@ border-style: solid;
     margin-right: 15rem;
     flex-direction: column;
     background-color: white;
-    box-shadow: 5px;
+    box-shadow: 5px 5px grey;
+    box-shadow: -5px 5px grey;
+    border-radius: 10px;
 }
 h2 {
     background-color: white;
@@ -18,4 +20,18 @@ h2 {
 .element {
     background-color: white;
     align-self: center;
+
+}
+h6 {
+    margin-bottom: 2px;
+}
+* {
+    font-family: sans-serif;
+    font-weight: normal;
+}
+.confirm-but {
+
+    align-self: center;
+    width: 10px;
+
 }
